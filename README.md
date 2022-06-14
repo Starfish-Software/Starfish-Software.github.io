@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## Version 2022.6.14.0
+
+**What's Changed**
+* Bug Fix: Execution Timeout for the Order Management Screen, resolves Ticket [2069](https://deelinc.freshdesk.com/a/tickets/2069) and [2071](https://deelinc.freshdesk.com/a/tickets/2071)
+
 ## Version 2022.6.13.0
 
 ## What's Changed
