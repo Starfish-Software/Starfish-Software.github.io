@@ -1,5 +1,12 @@
 # Starfish Release Notes
 
+## 2022.6.22.0
+
+**What's Changed**
+* A large amount of dead code removed (our last gift from @lhunt-ai thank you!)
+* Add list of items to be requested between branches to Truck Load List Report by @ASDazey 
+* Password bug fix by @Bheller fixes ticket [2091](https://deelinc.freshdesk.com/a/tickets/2091)
+
 ## Version 2022.6.14.0
 
 **What's Changed**
