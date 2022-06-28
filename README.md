@@ -1,5 +1,23 @@
 # Starfish Release Notes
 
+## 2022.6.28.0
+**What's Changed**
+
+* Change SKU validation by @ASDazey
+* Report Viewer Package update @BHeller
+* Fix date filter for Accounting @ASDazey
+
+![image](https://user-images.githubusercontent.com/52512450/176234395-88106cf1-aebd-4524-82d9-2f38c21e6592.png)
+
+* Fix bug in adjust inventory window, when no inventory already exists @ASDazey
+
+![image](https://user-images.githubusercontent.com/52512450/176234897-7fe7ae66-07c3-45ef-aa9d-5c74c930f243.png)
+
+* Fix bug for Vendor Product not being added @BHeller
+
+![image](https://user-images.githubusercontent.com/52512450/176235259-30dae159-40dd-4fe4-8c21-3d380d442500.png)
+
+
 ## 2022.6.22.0
 
 **What's Changed**
