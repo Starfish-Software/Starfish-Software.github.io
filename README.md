@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2022.6.30.0
+
+**What's Changed**
+* Fixes ticket #2120 from Fran by @ASDazey 
+
 ## 2022.6.28.0
 **What's Changed**
 
