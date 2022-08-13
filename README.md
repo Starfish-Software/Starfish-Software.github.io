@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2022.8.13.1
+
+## What's Changed
+* Install Cover Letter Update by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/61
+  - Changing WorkSpaceShield product to show up as Roller
+
 ## 2022.6.30.0
 
 **What's Changed**
