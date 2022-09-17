@@ -1,5 +1,27 @@
 # Starfish Release Notes
 
+## 2022.9.13.0
+
+## What's Changed
+* Removed several unused links in menus by @Semicolon192 in https://github.com/Starfish-Software/starfish-one/pull/73
+* User notification for bad zip when trying to calculate tax code in Sales by @Semicolon192 in https://github.com/Starfish-Software/starfish-one/pull/74
+* Fixed bug in updating / creating Vendor Products @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/75
+* CSR Order confirmation report changed by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/76
+
+ 
+
+> Orders that are part of a contract and a CSR and have a price adjust override applied didn't display the correct price
+
+![image](https://user-images.githubusercontent.com/52512450/189995958-63ab3984-12da-4fca-9d02-a59dd88103d8.png)
+
+![image](https://user-images.githubusercontent.com/52512450/189996800-3ede7778-b412-400c-ae8e-f26002bc8c90.png)
+
+* CSR creating screen now has height and width columns by @Semicolon192 in https://github.com/Starfish-Software/starfish-one/pull/78
+
+![image](https://user-images.githubusercontent.com/52512450/189177531-cf64f6e2-63e4-4819-836c-d7581e605c62.png)
+
+* Fixed bug in Send
+
 ## 2022.8.13.1
 
 ## What's Changed
