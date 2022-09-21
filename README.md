@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2022.9.21.0
+
+## What's Changed
+* Fix bug in **Mark all Finished** checkbox on CSR creation screen by @Semicolon192 in https://github.com/Starfish-Software/starfish-one/pull/84
+
 ## 2022.9.13.0
 
 ## What's Changed
