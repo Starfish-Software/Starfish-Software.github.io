@@ -1,5 +1,16 @@
 # Starfish Release Notes
 
+## 2022.11.23.0
+
+## What's Changed
+* Projects Address Issue by @ASDazey 
+* Re-adding Shower Doors to Reports by @stephmoira 
+* CSR creation changes by @ASDazey
+* Order splitting feature creation by @ASDazey
+* Accounting Project Pricing implementation @ASDazey
+* Add requested change to error messages from Stephanie by @ASDazey
+* Column adds to Install Big Board when adding WOs in ADO by @ASDazey
+
 ## 2022.9.21.0
 
 ## What's Changed
