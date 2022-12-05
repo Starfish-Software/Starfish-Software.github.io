@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2022.12.5.0
+
+## What's Changed
+* Hotfix for DE-EL's invoice export.
+
 ## 2022.11.23.0
 
 ## What's Changed
