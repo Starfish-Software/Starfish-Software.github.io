@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2022.12.14.0
+
+## What's Changed
+* Fix for Accounting - squashing on invoices
+* Hotfix for Accounting - intercompany sales export fixed
+
 ## 2022.12.5.0
 
 ## What's Changed
