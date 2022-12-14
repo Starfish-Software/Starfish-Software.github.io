@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2022.12.14.1
+
+## What's Changed
+* Remove closing of projects @ASDazey 
+
 ## 2022.12.14.0
 
 ## What's Changed
