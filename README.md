@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2022.12.15.0
+
+## What's Changed
+* Changes to product validation to fix CLRP & orders missing production options
+
 ## 2022.12.14.1
 
 ## What's Changed
