@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2022.12.19
+
+## What's Changed
+* Changes to Inventory Report views by @ASDazey 
+* Slight change to item calculations to prevent duplications by @ASDazey 
+
 ## 2022.12.15.0
 
 ## What's Changed
