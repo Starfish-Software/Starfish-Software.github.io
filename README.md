@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2022.12.26
+
+## What's Changed
+* Squash bug making new users unable to reset their password by @ASDazey 
+* Fix Schedule of Values pricing errors by @ASDazey 
+
 ## 2022.12.19.1
 
 ## What's Changed
