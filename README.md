@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2022.12.28
+
+## What's Changed
+* Force default sort order on BlindsOrder by @ASDazey 
+
 ## 2022.12.26
 
 ## What's Changed
