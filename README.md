@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.1.9.0
+
+## What's Changed
+* Fix formatting issue for BigBoard tag printing
+
 ## 2022.12.28
 
 ## What's Changed
