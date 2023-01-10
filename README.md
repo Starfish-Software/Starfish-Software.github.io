@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.1.10.2
+
+## What's Changed
+* Another fix for labels
+
 ## 2023.1.10.1
 
 ## What's Changed
