@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.1.10
+
+## What's Changed
+* Fixed all labels install could print from the production labels screen by @ASDazey
+
 ## 2023.1.9.1
 
 ## What's Changed
