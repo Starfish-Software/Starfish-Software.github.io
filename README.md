@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.1.10.4
+
+## What's Changed
+* Why do labels have to be this way by @ASDazey 
+
 ## 2023.1.10.3
 
 ## What's Changed
