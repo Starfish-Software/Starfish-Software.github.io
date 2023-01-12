@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.1.12
+
+## What's Changed
+* This is the final fix for DataEntry's labels by @ASDazey 
+
 ## 2023.1.11.0
 
 ## What's Changed
