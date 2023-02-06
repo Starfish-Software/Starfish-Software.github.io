@@ -1,5 +1,15 @@
 # Starfish Release Notes
 
+## 2023.2.6
+
+## What's Changed
+* Sales UI changes
+* The Final Accounting Update
+* Fix craig overflow
+* Fix scope qty 
+* All the new fixes! 
+* Fix requested issues 
+
 ## 2023.1.12
 
 ## What's Changed
