@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.2.20
+
+## What's Changed
+* Should fix the sidemark thength issue with install's printer by @ASDazey
+
 ## 2023.2.6
 
 ## What's Changed
