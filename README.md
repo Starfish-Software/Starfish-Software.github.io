@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.2.23
+
+## What's Changed
+* Bump Select commands to 3 minute timouts
+
 ## 2023.2.20
 
 ## What's Changed
