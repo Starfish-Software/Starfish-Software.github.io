@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2023.3.1
+
+## What's Changed
+* Update how the sites are able to be edited 
+* Update prod timeout (3 minutes) 
+
 ## 2023.2.23
 
 ## What's Changed
