@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.3.6
+
+## What's Changed
+* Change escaping apostrophes to removing them entirely. 
+
 ## 2023.3.1
 
 ## What's Changed
