@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.3.29.0
+
+## What's Changed
+* Updated data entry fields for ease of use
+
 ## 2023.3.17
 
 ## What's Changed
