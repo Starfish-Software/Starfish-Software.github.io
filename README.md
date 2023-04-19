@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.4.19.0
+
+## What's Changed
+* Add ability to archive clients (admin only) 
+
 ## 2023.3.29.0
 
 ## What's Changed
