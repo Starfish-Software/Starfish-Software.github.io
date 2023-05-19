@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.5.19.0
+
+## What's Changed
+* Fix inventory pull bug 
+
 ## 2023.4.20.0
 
 ## What's Changed
