@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.6.9.0
+
+## What's Changed
+* OrderStatus default sorting 
+
 ## 2023.5.19.0
 
 ## What's Changed
