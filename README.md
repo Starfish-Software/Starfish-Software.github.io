@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.7.14.0
+
+## What's Changed
+* Rob email addition
+
 ## 2023.6.9.0
 
 ## What's Changed
