@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.8.7.0
+
+## What's Changed
+* Made ComCode selection box wider
+
 ## 2023.7.14.0
 
 ## What's Changed
