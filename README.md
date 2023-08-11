@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.8.11.0
+
+## What's Changed
+* Add the LTL Container type 
+
 ## 2023.8.9.0
 
 ## What's Changed
