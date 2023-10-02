@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.10.2.0
+
+## What's Changed
+* Final accounting fix 
+
 ## 2023.8.11.0
 
 ## What's Changed
