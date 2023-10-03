@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.10.3.0
+
+## What's Changed
+* Allow CSR's to bypass the old method catch
+
 ## 2023.10.2.1
 
 
