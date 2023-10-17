@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.10.17.0
+
+## What's Changed
+* Calculate new time out based off Est_TimeonStopHrs
+
 ## 2023.10.3.0
 
 ## What's Changed
