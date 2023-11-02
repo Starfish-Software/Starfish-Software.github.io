@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2023.11.2.0
+
+## What's Changed
+* Force reason selection for CSRs 
+* Force all negative numbers to be 0 
+
 ## 2023.10.17.0
 
 ## What's Changed
