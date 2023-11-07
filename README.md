@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2023.11.7.0
+
+## What's Changed
+* Fix the stupid thing by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/188
+* Fix line item options not being copied to CSR's by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/187
+
 ## 2023.11.2.0
 
 ## What's Changed
