@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2023.11.10.0
+
+## What's Changed
+* Fix production inventory dialog from blocking
+
 ## 2023.11.7.0
 
 ## What's Changed
