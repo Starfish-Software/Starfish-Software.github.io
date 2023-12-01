@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2023.12.1.0
+
+## What's Changed
+* Fix the barcodes to use the actual SKU and not the SKU ID… 
+* 
+
 ## 2023.11.10.0
 
 ## What's Changed
