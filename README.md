@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2024.2.2
+
+## What's Changed
+* Disable Production Auto-Refresh
+
 ## 2023.12.1.0
 
 ## What's Changed
