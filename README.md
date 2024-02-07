@@ -1,5 +1,9 @@
 # Starfish Release Notes
 
+## Disable production auto refresh
+
+Disable production auto refresh
+
 ## 2024.2.2
 
 ## What's Changed
