@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2024.3.11.0
+
+## What's Changed
+* Fix purchasing emailing
+
 ## Disable production auto refresh
 
 Disable production auto refresh
