@@ -1,5 +1,12 @@
 # Starfish Release Notes
 
+## 2024.5.22.0
+
+## What's Changed
+* Bump Microsoft.Data.SqlClient from 5.0.1 to 5.1.3 in /Starfish.Infrastructure 
+* Craig first update
+* Add load msg to order status on all search values
+
 ## 2024.3.11.0
 
 ## What's Changed
