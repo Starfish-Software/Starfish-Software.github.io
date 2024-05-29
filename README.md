@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2024.5.29.0
+
+## What's Changed
+* added forced location for split container on bigboard
+* Prod maint 
+
 ## 2024.5.22.2
 
 ## What's Changed
