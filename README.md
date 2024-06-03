@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2024.6.3.0
+
+## What's Changed
+* Timeoutchangeonmaster by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/199
+* Fix timeout for production reports with new datasource by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/200
+* New branch from main, only changed form and sql by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/201
+* refresh configs by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/202
+
 ## 2024.5.29.0
 
 ## What's Changed
