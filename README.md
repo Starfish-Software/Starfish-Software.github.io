@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2024.6.3.1
+
+## What's Changed
+* PO Warehouse Report, BB Branch/Company resize, status screen grid saves by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/203
+
 ## 2024.6.3.0
 
 ## What's Changed
