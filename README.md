@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2024.6.11.0
+
+## What's Changed
+* Autofix product totals by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/204
+* add save user settings to refresh on order status screen by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/205
+
 ## 2024.6.3.1
 
 ## What's Changed
