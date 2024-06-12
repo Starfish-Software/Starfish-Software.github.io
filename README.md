@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2024.6.12.0
+
+## What's Changed
+* make default row header narrow and not resizable
+
 ## 2024.6.11.0
 
 ## What's Changed
