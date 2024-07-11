@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2024.7.11.0
+
+## What's Changed
+* add 1/4 & 1/8 inch measurement selections, originally had all 1/8 listed as 1/4 
+
 ## 2024.6.12.0
 
 ## What's Changed
