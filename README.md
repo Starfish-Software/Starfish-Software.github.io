@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2024.8.13.0
+
+## What's Changed
+* Order Entry Query Updates 
+* Bigboard Bug Fix Stage 1 
+* updated user exerience on tag info popup.  Adding and removing installers keeps popup open until done showing changes. 
+* extra installers shown on popup tag was showing installer for each service It now only shows installer once.
+* remove orderstatus error msg
+
 ## 2024.7.11.0
 
 ## What's Changed
