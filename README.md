@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2024.8.21.0
+
+## What's Changed
+* Refactored since 7/16 
+* 2ndTryRefactorBB 
+* PublishTry3
+* includes site address fix  
+* Install Cover error fix 
+
 ## 2024.8.13.2 HOTFIX pt2
 
 
