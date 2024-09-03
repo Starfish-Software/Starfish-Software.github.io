@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2024.9.3.1
+
+## What's Changed
+* FIx Unscheduled view on BB as it was hiding branch selections 
+
 ## 2024.9.3.0
 
 ## What's Changed
