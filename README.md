@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2024.9.3.0
+
+## What's Changed
+* BBUpdate 
+* Update try3 
+* refresh build from master 
+* remove duedate update on request 
+* add logic to make sure approval is needed when moving into lockout period but not when moving forward within lockout period
+
 ## 2024.8.21.0
 
 ## What's Changed
