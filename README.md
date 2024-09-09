@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2024.9.9.0
+
+## What's Changed
+* Better error check for vendor import xls 
+* DragDropandpopuprefresh 
+
 ## 2024.9.3.1
 
 ## What's Changed
