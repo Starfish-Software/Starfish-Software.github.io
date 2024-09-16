@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2024.9.16.0
+
+## What's Changed
+* Update install sched form to only include other installers on same day and services 
+
 ## 2024.9.9.0
 
 ## What's Changed
