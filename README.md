@@ -1,5 +1,11 @@
 # Starfish Release Notes
 
+## 2024.10.3.0
+
+## What's Changed
+* orderentry fixes contract variances and asks user
+* New update for project info override 
+
 ## 2024.9.16.0
 
 ## What's Changed
