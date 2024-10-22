@@ -1,5 +1,9 @@
 # Starfish Release Notes
 
+## HOTFIX
+
+Rollback to previous release
+
 ## 2024.10.22.0
 
 ## What's Changed
