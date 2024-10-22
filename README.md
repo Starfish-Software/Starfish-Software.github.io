@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2024.10.22.0
+
+## What's Changed
+* OrderEntry_ContractPopup by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/230
+* OrderEntryProjectList by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/231
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.10.3.0...2024.10.22.0
+
 ## 2024.10.3.0
 
 ## What's Changed
