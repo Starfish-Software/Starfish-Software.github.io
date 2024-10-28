@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2024.10.28.0
+
+## What's Changed
+* Fix com codes reseting on contracts. by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/232
+* stabalize comcode on contracts by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/233
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.10.22.0...2024.10.28.0
+
 ## HOTFIX
 
 Rollback to previous release
