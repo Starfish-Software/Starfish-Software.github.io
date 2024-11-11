@@ -1,5 +1,15 @@
 # Starfish Release Notes
 
+## 2024.11.11
+
+## What's Changed
+* Small changes some typos may be causing error. by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/234
+* Additional Update by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/235
+* fixes last error and adds tag date edits by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/236
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.10.28.0...2024.11.11
+
 ## 2024.10.28.0
 
 ## What's Changed
