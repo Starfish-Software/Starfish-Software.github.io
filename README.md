@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2024.11.13.0
+
+## What's Changed
+* correct scopeid being stored as mstrscopid (contract num) by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/237
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.11.11...2024.11.13.0
+
 ## 
 
 
