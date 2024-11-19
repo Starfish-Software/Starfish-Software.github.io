@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2024.11.19.0
+
+## What's Changed
+* BIgBoard_RemovedDS by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/238
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.11.13.0...2024.11.19.0
+
 ## 2024.11.13.0
 
 ## What's Changed
