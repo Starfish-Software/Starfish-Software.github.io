@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2024.12.2.0
+
+## What's Changed
+* Fix query error on Bigboard, missing 'use ooprod_install' on two queries that insert for install and product spread. by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/239
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.11.19.0...2024.12.2.0
+
 ## 2024.11.19.0
 
 ## What's Changed
