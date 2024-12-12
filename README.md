@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2024.12.12.0
+
+## What's Changed
+* HealthReportAdded by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/241
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.12.2.1...2024.12.12.0
+
 ## 2024.12.2.1
 
 ## What's Changed
