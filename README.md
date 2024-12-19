@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2024.12.19.0
+
+## What's Changed
+* CountingReportFix by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/243
+* updated inventory report to Include zero value items by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/244
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.12.12.1...2024.12.19.0
+
 ## 2024.12.12.1
 
 ## What's Changed
