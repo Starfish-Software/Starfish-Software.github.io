@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2024.12.30.0
+
+## What's Changed
+* BB NewYearDate Try 2 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/246
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.12.19.0...2024.12.30.0
+
 ## 2024.12.19.0
 
 ## What's Changed
