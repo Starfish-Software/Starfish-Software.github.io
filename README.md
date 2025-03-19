@@ -1,5 +1,16 @@
 # Starfish Release Notes
 
+## 2025.3.19.0
+
+## What's Changed
+* OrderStatus_Replaces by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/248
+* Updated one click order status change by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/247
+* NewFeaturestoTest by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/249
+* SpeedsupOrderSave by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/250
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2024.12.30.0...2025.3.19.0
+
 ## 2024.12.30.0
 
 ## What's Changed
