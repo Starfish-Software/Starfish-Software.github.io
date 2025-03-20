@@ -1,5 +1,15 @@
 # Starfish Release Notes
 
+## 2025.3.20.1
+
+## What's Changed
+* New Update for 3/20 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/252
+* Redo changes put in during this mess of a time by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/256
+* Asd/revert2 by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/257
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.3.20.0...2025.3.20.1
+
 ## 2025.3.20.0
 
 ## What's Changed
