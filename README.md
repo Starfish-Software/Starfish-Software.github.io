@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.3.20.0
+
+## What's Changed
+* Update fix by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/251
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.3.19.0...2025.3.20.0
+
 ## 2025.3.19.0
 
 ## What's Changed
