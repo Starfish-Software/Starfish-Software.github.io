@@ -1,5 +1,15 @@
 # Starfish Release Notes
 
+## 2025.5.28.0
+
+## What's Changed
+* Switch production Division by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/258
+* retry production switch by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/259
+* ReportsUpdated by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/260
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.3.20.1...2025.5.28.0
+
 ## 2025.3.20.1
 
 ## What's Changed
