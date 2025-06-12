@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.6.12.0
+
+## What's Changed
+* Shipping Due Today Report by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/261
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.5.28.0...2025.6.12.0
+
 ## 2025.5.28.0
 
 ## What's Changed
