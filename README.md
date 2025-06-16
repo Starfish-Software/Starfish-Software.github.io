@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.6.16.0
+
+## What's Changed
+* extra character in query by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/262
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.6.12.0...2025.6.16.0
+
 ## 2025.6.12.0
 
 ## What's Changed
