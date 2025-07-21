@@ -19,6 +19,27 @@
 * newbranchtry by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/275
 
 
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.6.16.0...2025.7.21.1
+
+## 2025.7.21.0
+
+## What's Changed
+* QRLabelsNewBranchTry by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/264
+* QRLabelTest by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/263
+* LabelChanges by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/265
+* QRUpdate by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/266
+* addedErrorChecker by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/267
+* PrinterSettingChanges by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/268
+* printersettingchange by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/269
+* removeoodiscountlabel by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/270
+* labelmarginchange by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/271
+* TrackingLablReportNameChange by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/272
+* labelsizeupdate by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/273
+* conflictpush by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/276
+* ReleaseVLabelMargins by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/274
+* newbranchtry by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/275
+
+
 **Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.6.16.0...2025.7.21.0
 
 ## 2025.6.16.0
