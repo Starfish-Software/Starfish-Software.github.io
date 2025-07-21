@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2025.7.21.2
+
+## What's Changed
+* installlocationchanged by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/277
+* Update Office.vbproj by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/278
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.7.21.0...2025.7.21.2
+
 ## 2025.7.21.0
 
 ## What's Changed
