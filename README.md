@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.7.22.0
+
+## What's Changed
+* production conn updated by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/279
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.7.21.2...2025.7.22.0
+
 ## 2025.7.21.2
 
 ## What's Changed
