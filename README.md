@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.7.25.0
+
+## What's Changed
+* bbsavebranchselections by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/281
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.7.22.1...2025.7.25.0
+
 ## 2025.7.22.1
 
 ## What's Changed
