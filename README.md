@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.7.29.0
+
+## What's Changed
+* BBPolicyCheckFix by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/282
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.7.25.0...2025.7.29.0
+
 ## 2025.7.25.0
 
 ## What's Changed
