@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2025.8.26.0
+
+## What's Changed
+* addbackBBSaveSettings by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/284
+* FIXED FORCED SP;OKANE by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/285
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.8.5.0...2025.8.26.0
+
 ## 2025.8.5.0
 
 ## What's Changed
