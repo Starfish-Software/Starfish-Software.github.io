@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.9.15.1
+
+## What's Changed
+* chore: Remove margins in other places by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/287
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.9.15.0...2025.9.15.1
+
 ## 2025.9.15.0
 
 ## What's Changed
