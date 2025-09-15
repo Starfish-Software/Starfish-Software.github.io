@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.9.15.0
+
+## What's Changed
+* chore: Remove forced margins on labels by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/286
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.8.26.0...2025.9.15.0
+
 ## 2025.8.26.0
 
 ## What's Changed
