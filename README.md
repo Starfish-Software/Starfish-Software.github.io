@@ -1,5 +1,9 @@
 # Starfish Release Notes
 
+## 2025.9.4
+
+labels really suck
+
 ## 2025.9.15.3
 
 labels suck
