@@ -1,5 +1,10 @@
 # Starfish Release Notes
 
+## 2025.9.16.0
+
+🙏🙏🙏🙏🙏🙏
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.9.15.5...2025.9.16.0
+
 ## 2025.9.15.5
 
 I screwed up the name
