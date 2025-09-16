@@ -1,5 +1,9 @@
 # Starfish Release Notes
 
+## 2025.9.15.2
+
+Revert removal of margins
+
 ## 2025.9.15.1
 
 ## What's Changed
