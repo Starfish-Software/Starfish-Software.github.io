@@ -1,5 +1,16 @@
 # Starfish Release Notes
 
+## 2025.12.4.0
+
+## What's Changed
+* AsyncRpts_Try2 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/289
+* ASYNC_RptsPH1 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/288
+* update prod request to include other users from sf by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/290
+* upate sched query by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/291
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.9.24.2...2025.12.4.0
+
 ## 2025.9.24.2
 
 **Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.9.24.1...2025.9.24.2
