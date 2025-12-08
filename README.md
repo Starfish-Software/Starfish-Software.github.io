@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.12.8.0
+
+## What's Changed
+* add back delivery only by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/292
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.4.0...2025.12.8.0
+
 ## 2025.12.4.0
 
 ## What's Changed
