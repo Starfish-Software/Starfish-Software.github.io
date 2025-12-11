@@ -1,5 +1,25 @@
 # Starfish Release Notes
 
+## 2025.12.11.0
+
+## What's Changed
+* ReportFix1 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/293
+* TRY TO ADD CERTIFICATE by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/294
+* DateFixforSched by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/295
+* NEWPUSH_1208 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/296
+* fixed install report. by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/297
+* WORKFLOWFORBASE64 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/298
+* latestversion1210 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/302
+* changebacktoX86 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/303
+* Try2RemovedReference by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/304
+* GITHUB_HAPPY by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/305
+* RebuildStep1 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/306
+* removecertfromrebuild by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/307
+* rebuildstep2 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/308
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.8.0...2025.12.11.0
+
 ## 2025.12.8.0
 
 ## What's Changed
