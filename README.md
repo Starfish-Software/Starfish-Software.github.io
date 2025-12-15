@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.12.15.0
+
+## What's Changed
+* installCoverfromBigboard by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/309
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.11.0...2025.12.15.0
+
 ## 2025.12.11.0
 
 ## What's Changed
