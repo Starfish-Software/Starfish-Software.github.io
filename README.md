@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.12.17.1
+
+## What's Changed
+* update namespace by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/318
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.17.0...2025.12.17.1
+
 ## 2025.12.17.0
 
 ## What's Changed
