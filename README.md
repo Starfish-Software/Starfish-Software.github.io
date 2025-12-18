@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2025.12.17.2
+
+## What's Changed
+* Put back Namespace to Starfish_Office_Test by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/319
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.17.1...2025.12.17.2
+
 ## 2025.12.17.1
 
 ## What's Changed
