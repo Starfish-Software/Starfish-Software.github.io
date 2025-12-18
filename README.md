@@ -1,5 +1,9 @@
 # Starfish Release Notes
 
+## 2025.12.17.3
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.17.2...2025.12.17.3
+
 ## 2025.12.17.2
 
 ## What's Changed
