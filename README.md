@@ -1,5 +1,18 @@
 # Starfish Release Notes
 
+## 2025.12.17.0
+
+## What's Changed
+* ExtraInstallersFix by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/312
+* Lockout feature corrected by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/313
+* lockoutupdate by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/314
+* 1217try2 by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/315
+* updated name to Starfish_Office_Test by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/316
+* updated time frame sent to queries, it was defaulting to 1 yr ahead intead of 1 day by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/317
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.16.1...2025.12.17.0
+
 ## 2025.12.16.1
 
 ## What's Changed
