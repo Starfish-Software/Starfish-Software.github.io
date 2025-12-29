@@ -1,5 +1,15 @@
 # Starfish Release Notes
 
+## 2025.12.29.0
+
+## What's Changed
+* qrlabel changes for full year by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/320
+* Delete .github/workflows/main.yml by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/321
+* yearaddedtoQRLabel by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/322
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.17.3...2025.12.29.0
+
 ## 2025.12.17.3
 
 **Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.17.2...2025.12.17.3
