@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2026.2.10.0
+
+## What's Changed
+* Add date label to shipping's labels by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/323
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2025.12.29.0...2026.2.10.0
+
 ## 2025.12.29.0
 
 ## What's Changed
