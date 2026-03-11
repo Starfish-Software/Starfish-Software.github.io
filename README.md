@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2026.3.11.0
+
+## What's Changed
+* remove extra text in query by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/326
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2026.2.23.0...2026.3.11.0
+
 ## 2026.2.23.0
 
 ## What's Changed
