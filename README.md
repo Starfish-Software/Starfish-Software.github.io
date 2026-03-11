@@ -1,5 +1,9 @@
 # Starfish Release Notes
 
+## 2026.3.11.4
+
+Fixes purchasing emails
+
 ## 2026.3.11.3
 
 
