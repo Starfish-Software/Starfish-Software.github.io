@@ -1,5 +1,17 @@
 # Starfish Release Notes
 
+## 2026.5.27
+
+## What's Changed
+* ContractQtyCheck by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/327
+* ContractQty_HandleScope by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/328
+* forgot to save last update to msg box by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/329
+* Asd/gh runner vers by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/330
+* remergedQtyCheck by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/331
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2026.3.11.4...2026.5.27
+
 ## 2026.3.11.4
 
 Fixes purchasing emails
