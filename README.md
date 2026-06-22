@@ -1,5 +1,9 @@
 # Starfish Release Notes
 
+## 2026.6.22.0
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2026.5.27...2026.6.22.0
+
 ## 2026.5.27
 
 ## What's Changed
