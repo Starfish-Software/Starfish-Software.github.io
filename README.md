@@ -1,5 +1,14 @@
 # Starfish Release Notes
 
+## 2026.6.30.0
+
+## What's Changed
+* stop checking csr qty on scope by @craigatdeel in https://github.com/Starfish-Software/starfish-one/pull/332
+* Update SQL_Mods.vb by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/333
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2026.6.22.0...2026.6.30.0
+
 ## 2026.6.22.0
 
 **Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2026.5.27...2026.6.22.0
