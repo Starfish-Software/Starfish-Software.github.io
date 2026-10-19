@@ -1,5 +1,13 @@
 # Starfish Release Notes
 
+## 2026.10.19.0
+
+## What's Changed
+* Asd/qolstuff by @ASDazey in https://github.com/Starfish-Software/starfish-one/pull/336
+
+
+**Full Changelog**: https://github.com/Starfish-Software/starfish-one/compare/2026.8.11.0...2026.10.19.0
+
 ## 2026.8.11.0
 
 
